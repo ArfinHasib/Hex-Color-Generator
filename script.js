@@ -1,7 +1,7 @@
 const container = document.querySelector(".container");
 const refreshBtn = document.querySelector(".refresh-btn");
 
-let maxPaletteBoxes = 32; // Number of palette you want to show on the screen
+let maxPaletteBoxes = 16; // Number of palette you want to show on the screen
 
 // Generate the palette
 const generatePalette = () => {
